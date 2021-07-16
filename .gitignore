@@ -2,7 +2,6 @@ node_modules/
 .DS_Store
 npm-debug.log
 cypress/screenshots
-dist
 .nyc_output
 coverage
 public
